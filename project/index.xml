@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ritik</title>
+    <link>https://ritik99.github.io/project/</link>
+    <description>Recent content in Projects on Ritik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 10 Nov 2018 10:49:36 +0530</lastBuildDate>
+    
+	<atom:link href="https://ritik99.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Image Panaroma</title>
+      <link>https://ritik99.github.io/project/image-panaroma/</link>
+      <pubDate>Sat, 10 Nov 2018 10:49:36 +0530</pubDate>
+      
+      <guid>https://ritik99.github.io/project/image-panaroma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denoising Images</title>
+      <link>https://ritik99.github.io/project/denoising-images/</link>
+      <pubDate>Sat, 10 Nov 2018 10:48:48 +0530</pubDate>
+      
+      <guid>https://ritik99.github.io/project/denoising-images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eigenfaces</title>
+      <link>https://ritik99.github.io/project/eigenfaces/</link>
+      <pubDate>Sat, 10 Nov 2018 10:48:17 +0530</pubDate>
+      
+      <guid>https://ritik99.github.io/project/eigenfaces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Insult Detection</title>
+      <link>https://ritik99.github.io/project/insult-detection/</link>
+      <pubDate>Sat, 10 Nov 2018 10:47:44 +0530</pubDate>
+      
+      <guid>https://ritik99.github.io/project/insult-detection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

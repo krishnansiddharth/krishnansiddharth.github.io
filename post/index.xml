@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ritik</title>
+    <link>https://ritik99.github.io/post/</link>
+    <description>Recent content in Posts on Ritik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 10 Nov 2018 10:32:34 +0530</lastBuildDate>
+    
+	<atom:link href="https://ritik99.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Natural Language Generation - Generating Puns</title>
+      <link>https://ritik99.github.io/post/nlg/</link>
+      <pubDate>Sat, 10 Nov 2018 10:32:34 +0530</pubDate>
+      
+      <guid>https://ritik99.github.io/post/nlg/</guid>
+      <description>Natural Language Generation (NLG) is characterised as &amp;ldquo;the sub-field of artificial intelligence and computational linguistics that is concerned with the construction of computer systems that can produce understandable tests in English or other human languages from some underlying non-linguistic representation of information&amp;rdquo; (Reiter &amp;amp; Dale, 1997). NLG is one of the earliest topics that researchers started taking interest in.
+Following are the most frequent applications of NLG systems:
+ Content determination: Determining what kind of information to include while preparing a document Text structuring: Determining the sequence in which information is supposed to appear Sentence aggregation: Deciding information which should be displayed together Lexicalisation: Finding the right words and phrases to express information Referring expression generation: Selecting the words and phrases to identify domain objects Linguistic realisation: Combining all words and phrases into well-formed sentences  All of these topics are fairly complex, and most applications usually involve a combination or all of the above mentioned areas.</description>
+    </item>
+    
+  </channel>
+</rss>
