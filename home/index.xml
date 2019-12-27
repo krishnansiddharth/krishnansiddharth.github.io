@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Siddharth</title>
@@ -36,10 +36,11 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>https://krishnansiddharth.github.io/home/about/</guid>
-      <description>Biography I am Siddharth Krishnan, a junior Electrical Engineering undergraduate at IIT Gandhinagar, India. I am interested in designing quantum systems for electronics, energy applications and photonics. I like to program and simulate the rich physics of quantum systems.
+      <description>Biography I am Siddharth Krishnan, a junior Electrical Engineering undergraduate at IIT Gandhinagar, India. I am interested in applying computational techniques to design and discover novel materials and devices for applications in fields such as energy harvesting, energy storage, electronics and photonics.
+My research experience involves working on Tunnel FET design using first principle techniques, studying qunatum tranport in two dimensional materials and modeling self heating in Si-Ge HBTs.
 Besides pursuing science, I love playing basketball. Tracking the stock markets is also a passion of mine</description>
     </item>
-    
+
     <item>
       <title>Skills</title>
       <link>https://krishnansiddharth.github.io/home/skills/</link>
